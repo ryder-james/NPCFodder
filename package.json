@@ -1,0 +1,16 @@
+{
+  "name": "npcfodder",
+  "version": "1.0.0",
+  "description": "A simple bot for sending messages as disposable NPCs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JamesDigital",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
